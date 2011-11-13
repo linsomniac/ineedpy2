@@ -46,6 +46,6 @@ Python 2.4":
 License
 -------
 
-Copyright (c) 2011, Sean Reifschneider <jafo@tummy.com>, tummy.com, ltd.
-Released under the Python Software Foundation License
-For more information, see: http://docs.python.org/license.html
+Copyright (c) 2011, Sean Reifschneider <jafo@tummy.com>, tummy.com, ltd.  
+Released under the Python Software Foundation License  
+For more information, see: http://docs.python.org/license.html  
